@@ -1,4 +1,4 @@
 # demoProject
 This is just a demo repository.
 <br>
-Author - Arpit Bhardwaj
+Author - Arpit Bhardwaj (Delhi University)
